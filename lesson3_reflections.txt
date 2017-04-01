@@ -8,7 +8,7 @@ when i work with team programmers or program exist in a web for beginning start
 Why might you want to always pull changes manually rather than having Git
 automatically stay up-to-date with your remote repository?
 
-    Fill in your answer here
+	when work in team is necessary update manually repository using push or pull 
 
 Describe the differences between forks, clones, and branches.  When would you
 use one instead of another?
